@@ -86,6 +86,7 @@
       <LastGenOutput>Model.Context.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <None Include="SQL Scrips\SmartSolutions.bak" />
     <None Include="StoreEntities.edmx.diagram">
       <DependentUpon>StoreEntities.edmx</DependentUpon>
     </None>
